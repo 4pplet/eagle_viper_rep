@@ -10,9 +10,8 @@ Untested, initial prototypes ordered.
 - USB Mini
 - STM32F072CB
 - in-switich leds
-- Cherry PCB-stab support
 - ISO and ANSI
-- Underglow faithful to original PCB
+- Underglow
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
