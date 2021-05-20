@@ -3,7 +3,7 @@
 Replacement PCB for Viper/Eagle V2/V3
 
 ## Status:
-Initial prototypes ordered and tested. QMK not added to main branch, if testing this, use this code: 
+Initial prototypes ordered and tested. QMK not added to main branch, use Eagle/Viper branch on my QMK fork.
 
 ## Some features:
 - QMK & VIA
