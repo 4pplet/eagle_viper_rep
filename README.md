@@ -3,7 +3,7 @@
 Replacement PCB for Viper/Eagle V2/V3
 
 ## Status:
-Untested, initial prototypes ordered.
+Initial prototypes ordered and tested. QMK not added to main branch, if testing this, use this code: 
 
 ## Some features:
 - QMK & VIA
@@ -21,3 +21,9 @@ Untested, initial prototypes ordered.
 
 ## Revisions:
 - Rev A1: Initial prototype
+
+## Todo:
+- Move LED401 1mm to the right
+- Try and implement proper SPI-driver for underglow (software driver currently)
+- Try and implement proper PWM-driver for in switch leds (software driver currently)
+- Add QMK and VIA support to main repos.
