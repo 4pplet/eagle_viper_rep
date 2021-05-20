@@ -27,3 +27,4 @@ Initial prototypes ordered and tested. QMK not added to main branch, use Eagle/V
 - Try and implement proper SPI-driver for underglow (software driver currently)
 - Try and implement proper PWM-driver for in switch leds (software driver currently)
 - Add QMK and VIA support to main repos.
+- Change resistor for in switch leds from 680R to 470R
