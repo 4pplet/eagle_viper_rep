@@ -6,7 +6,7 @@ Replacement PCB for Viper/Eagle V2/V3
 Initial prototypes ordered and tested. QMK not added to main branch, use Eagle/Viper branch on my QMK fork.
 
 ## Some features:
-- QMK & VIA
+- QMK & VIA (soon)
 - USB Mini
 - STM32F072CB
 - in-switich leds
