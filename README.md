@@ -23,5 +23,5 @@ Initial prototypes ordered and tested. QMK and VIA added to main branch.
 - Rev A1: Initial prototype
 
 ## Todo:
-- Move LED401 1mm to the right
-- Change resistor for in switch leds from 680R to 470R
+- Move LED401 1mm to the right (not critical)
+- Change resistor for in switch leds from 680R to 470R (680 Ohm is plenty bright)
