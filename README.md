@@ -6,12 +6,12 @@ Replacement PCB for Viper/Eagle V2/V3
 Initial prototypes ordered and tested. QMK and VIA added to main branch.
 
 ## Some features:
-- QMK & VIA (soon)
+- QMK & VIA main repos
 - USB Mini
 - STM32F072CB
 - in-switich leds
 - ISO and ANSI
-- Underglow
+- Underglow true to the original PCB
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
