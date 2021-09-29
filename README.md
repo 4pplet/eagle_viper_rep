@@ -3,7 +3,7 @@
 Replacement PCB for Viper/Eagle V2/V3
 
 ## Status:
-Initial prototypes ordered and tested. QMK and VIA added to main branch.
+Fully tested and implemented. QMK and VIA added to main branch.
 
 ## Some features:
 - QMK & VIA main repos
