@@ -25,3 +25,5 @@ Fully tested and implemented. QMK and VIA added to main branch.
 ## Todo:
 - Move LED401 1mm to the right (not critical)
 - Change resistor for in switch leds from 680R to 470R (680 Ohm is plenty bright)
+
+<a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
