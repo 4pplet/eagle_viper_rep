@@ -208,7 +208,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SXPPIGTV
+DocumentUniqueId=BRIJMFLU
 
 [Document11]
 DocumentPath=1_viper_eagle_rep_top.SchDoc
@@ -226,6 +226,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBXHBRXV
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for alps-cherry\Design Rule Check - viper_eagle_rep.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjectTitle
