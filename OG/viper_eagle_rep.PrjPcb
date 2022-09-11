@@ -177,23 +177,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GDYWFQBP
 
 [Document9]
-DocumentPath=viper_eagle_rep_2.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SXPPIGTV
-
-[Document10]
 DocumentPath=viper_eagle_rep.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRIJMFLU
 
-[Document11]
+[Document10]
 DocumentPath=1_viper_eagle_rep_top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
