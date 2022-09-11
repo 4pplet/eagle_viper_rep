@@ -215,12 +215,12 @@ DocumentPath=Project Outputs for alps-cherry\Design Rule Check - viper_eagle_rep
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=bootlegs
+Name=Revision
+Value=B1
 
 [Parameter2]
-Name=Revision
-Value=B2 - MX
+Name=ProjectTitle
+Value=Viper/Eagle Rep
 
 [Configuration1]
 Name=Sources
