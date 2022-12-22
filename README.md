@@ -14,7 +14,7 @@ Fully tested and implemented. QMK and VIA added to main branch.
 - Underglow true to the original PCB
 
 ## Layout support: 
-![alt text](./readme-images/layout_support.jpg "Layout support")
+![alt text](./readme-images/layout_support_rev_b.jpg "Layout support")
 
 ## Altium view of PCB - Solder
 ![alt text](./readme-images/eagle_viper_rep-MX_Rev_A1.jpg "PCB View - Rev A")
