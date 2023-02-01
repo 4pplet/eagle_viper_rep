@@ -8,8 +8,8 @@ Fully tested and implemented. QMK and VIA added to main branch.
 ## Some features:
 - QMK & VIA main repos
 - USB C
-- APM32F072
-- in-switich leds
+- APM or STM32F072
+- In-switich leds
 - ISO and ANSI
 - Underglow true to the original PCB
 
