@@ -92,23 +92,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UMAPLPXN
 
 [Document4]
-DocumentPath=viper_eagle_rep_plate.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YPFXJPHU
-
-[Document5]
 DocumentPath=4_viper_eagle_rep-periferals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOQGEUBL
 
-[Document6]
+[Document5]
 DocumentPath=2_viper_eagle_rep-matrix.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDTDDDYM
 
-[Document7]
+[Document6]
 DocumentPath=viper_eagle_rep.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=5_viper_eagle_rep-swleds.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDYWFQBP
 
-[Document9]
+[Document8]
 DocumentPath=viper_eagle_rep.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRIJMFLU
 
-[Document10]
+[Document9]
 DocumentPath=1_viper_eagle_rep_top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,13 +193,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBXHBRXV
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for alps-cherry\Design Rule Check - viper_eagle_rep.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Revision
-Value=B1
+Value=B2
 
 [Parameter2]
 Name=ProjectTitle
